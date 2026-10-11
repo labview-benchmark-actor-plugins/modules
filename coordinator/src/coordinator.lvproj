@@ -2,6 +2,7 @@
 <Project Type="Project" LVVersion="26008000">
 	<Property Name="NI.LV.All.SaveVersion" Type="Str">26.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
+	<Property Name="NI.Project.Description" Type="Str"></Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -31,8 +32,8 @@
 			<Item Name="Test UserEventRecorder API.vi" Type="VI" URL="../Libraries/UserEventRecorder/Test UserEventRecorder API.vi"/>
 		</Item>
 		<Item Name="CaptureJSONtypedef.ctl" Type="VI" URL="../../../CaptureJSONtypedef.ctl"/>
+		<Item Name="global.vi" Type="VI" URL="../Libraries/Core/global.vi"/>
 		<Item Name="ReplayMode.ctl" Type="VI" URL="../../../ReplayMode.ctl"/>
-		<Item Name="Run ID.vi" Type="VI" URL="../Libraries/Core/Run ID.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../../../Untitled 1.vi"/>
 		<Item Name="Untitled 2.vi" Type="VI" URL="../../../Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
