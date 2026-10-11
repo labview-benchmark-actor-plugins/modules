@@ -21,14 +21,13 @@
 			<Item Name="Capture detection loop data--cluster.ctl" Type="VI" URL="../Libraries/Launcher/Capture detection loop data--cluster.ctl"/>
 			<Item Name="Core.lvlib" Type="Library" URL="../Libraries/Core/Core.lvlib"/>
 			<Item Name="Launcher.lvlib" Type="Library" URL="../Libraries/Launcher/Launcher.lvlib"/>
-			<Item Name="Replay.lvlib" Type="Library" URL="../Libraries/Replay/Replay.lvlib"/>
+			<Item Name="Replay.lvlib" Type="Library" URL="../../../../replay/Replay/src/Libraries/Replay/Replay.lvlib"/>
 			<Item Name="UserEventRecorder.lvlib" Type="Library" URL="../Libraries/UserEventRecorder/UserEventRecorder.lvlib"/>
 			<Item Name="RecordMode.ctl" Type="VI" URL="../../../RecordMode.ctl"/>
 		</Item>
 		<Item Name="Testers" Type="Folder">
 			<Item Name="Test Core API.vi" Type="VI" URL="../Libraries/Core/Test Core API.vi"/>
 			<Item Name="Test Launcher API.vi" Type="VI" URL="../Libraries/Launcher/Test Launcher API.vi"/>
-			<Item Name="Test Replay API.vi" Type="VI" URL="../Libraries/Replay/Test Replay API.vi"/>
 			<Item Name="Test UserEventRecorder API.vi" Type="VI" URL="../Libraries/UserEventRecorder/Test UserEventRecorder API.vi"/>
 		</Item>
 		<Item Name="CaptureJSONtypedef.ctl" Type="VI" URL="../../../CaptureJSONtypedef.ctl"/>
