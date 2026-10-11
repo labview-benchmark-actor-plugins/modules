@@ -37,6 +37,7 @@
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
 		<Item Name="Obtain Broadcast Events for Registration.vi" Type="VI" URL="../Obtain Broadcast Events for Registration.vi"/>
 		<Item Name="Null Broadcast Events--constant.vi" Type="VI" URL="../Null Broadcast Events--constant.vi"/>
+		<Item Name="UserEventsTemporaryLocation.vi" Type="VI" URL="../UserEventsTemporaryLocation.vi"/>
 	</Item>
 	<Item Name="Broadcasts" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
@@ -111,7 +112,5 @@
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-	</Item>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
