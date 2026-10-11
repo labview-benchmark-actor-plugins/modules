@@ -16,7 +16,6 @@
 		<Item Name="Modules" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Mode.ctl" Type="VI" URL="../Libraries/Launcher/Mode.ctl"/>
-			<Item Name="User Events Metadata.ctl" Type="VI" URL="../Libraries/User Events Metadata.ctl"/>
 			<Item Name="captures file info metadata--cluster.ctl" Type="VI" URL="../Libraries/Launcher/captures file info metadata--cluster.ctl"/>
 			<Item Name="Capture detection loop data--cluster.ctl" Type="VI" URL="../Libraries/Launcher/Capture detection loop data--cluster.ctl"/>
 			<Item Name="Core.lvlib" Type="Library" URL="../Libraries/Core/Core.lvlib"/>
