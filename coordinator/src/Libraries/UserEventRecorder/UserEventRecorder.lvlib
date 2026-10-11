@@ -112,5 +112,7 @@
 		<Item Name="Is Safe to Destroy Refnums.vi" Type="VI" URL="../Is Safe to Destroy Refnums.vi"/>
 		<Item Name="Module Running State--enum.ctl" Type="VI" URL="../Module Running State--enum.ctl"/>
 	</Item>
-	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
+	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+	</Item>
 </Library>

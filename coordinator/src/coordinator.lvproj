@@ -32,6 +32,7 @@
 		</Item>
 		<Item Name="CaptureJSONtypedef.ctl" Type="VI" URL="../../../CaptureJSONtypedef.ctl"/>
 		<Item Name="ReplayMode.ctl" Type="VI" URL="../../../ReplayMode.ctl"/>
+		<Item Name="Run ID.vi" Type="VI" URL="../Libraries/Core/Run ID.vi"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../../../Untitled 1.vi"/>
 		<Item Name="Untitled 2.vi" Type="VI" URL="../../../Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>

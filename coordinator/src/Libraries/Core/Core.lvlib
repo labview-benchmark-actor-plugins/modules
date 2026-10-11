@@ -38,6 +38,7 @@
 			<Item Name="LaunchReplayModule.vi" Type="VI" URL="../LaunchReplayModule.vi"/>
 			<Item Name="Record Run ID.vi" Type="VI" URL="../Record Run ID.vi"/>
 		</Item>
+		<Item Name="CopyUserEventstoRunIDFolder.vi" Type="VI" URL="../CopyUserEventstoRunIDFolder.vi"/>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
 		<Item Name="Obtain Broadcast Events for Registration.vi" Type="VI" URL="../Obtain Broadcast Events for Registration.vi"/>
