@@ -30,7 +30,6 @@
 			<Item Name="Test UserEventRecorder API.vi" Type="VI" URL="../Libraries/UserEventRecorder/Test UserEventRecorder API.vi"/>
 		</Item>
 		<Item Name="CaptureJSONtypedef.ctl" Type="VI" URL="../../../CaptureJSONtypedef.ctl"/>
-		<Item Name="Example32-bitKeyboardCapture.vi" Type="VI" URL="../Example32-bitKeyboardCapture.vi"/>
 		<Item Name="global.vi" Type="VI" URL="../Libraries/Core/global.vi"/>
 		<Item Name="KeyboardAndMouseDataAcquisition.ctl" Type="VI" URL="../Libraries/UserEventRecorder/KeyboardAndMouseDataAcquisition.ctl"/>
 		<Item Name="KeyType.ctl" Type="VI" URL="../Libraries/UserEventRecorder/KeyType.ctl"/>
