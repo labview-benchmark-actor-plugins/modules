@@ -53,6 +53,15 @@
 	</Item>
 	<Item Name="Requests" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Item Name="Local Instance Requests" Type="Folder">
+			<Item Name="Loc Inst Arguments" Type="Folder">
+				<Item Name="Test Event Triggered Argument--cluster.ctl" Type="VI" URL="../Test Event Triggered Argument--cluster.ctl"/>
+			</Item>
+			<Item Name="Local Instance Events SEQ.lvlib" Type="Library" URL="../Local Instance Events SEQ/Local Instance Events SEQ.lvlib"/>
+			<Item Name="Local Instance Request Events--cluster.ctl" Type="VI" URL="../Local Instance Request Events--cluster.ctl"/>
+			<Item Name="Destroy Local Instance Events.vi" Type="VI" URL="../Destroy Local Instance Events.vi"/>
+			<Item Name="Test Event Triggered.vi" Type="VI" URL="../Test Event Triggered.vi"/>
+		</Item>
 		<Item Name="Request Events--cluster.ctl" Type="VI" URL="../Request Events--cluster.ctl"/>
 		<Item Name="Obtain Request Events.vi" Type="VI" URL="../Obtain Request Events.vi"/>
 		<Item Name="Destroy Request Events.vi" Type="VI" URL="../Destroy Request Events.vi"/>

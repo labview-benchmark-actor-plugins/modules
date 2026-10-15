@@ -34,6 +34,7 @@
 		<Item Name="KeyboardAndMouseDataAcquisition.ctl" Type="VI" URL="../Libraries/UserEventRecorder/KeyboardAndMouseDataAcquisition.ctl"/>
 		<Item Name="KeyType.ctl" Type="VI" URL="../Libraries/UserEventRecorder/KeyType.ctl"/>
 		<Item Name="ReplayMode.ctl" Type="VI" URL="../../../ReplayMode.ctl"/>
+		<Item Name="TestEvent.ctl" Type="VI" URL="../Libraries/UserEventRecorder/TestEvent.ctl"/>
 		<Item Name="Untitled 1.vi" Type="VI" URL="../../../Untitled 1.vi"/>
 		<Item Name="Untitled 2.vi" Type="VI" URL="../../../Untitled 2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies"/>
