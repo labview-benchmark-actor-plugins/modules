@@ -128,4 +128,9 @@
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 	</Item>
+	<Item Name="global.vi" Type="VI" URL="../global.vi"/>
+	<Item Name="LaunchEventRecorder Argument--cluster.ctl" Type="VI" URL="../LaunchEventRecorder Argument--cluster.ctl"/>
+	<Item Name="LaunchEventRecorder.vi" Type="VI" URL="../LaunchEventRecorder.vi"/>
+	<Item Name="Set Record Run ID.vi" Type="VI" URL="../Set Record Run ID.vi"/>
+	<Item Name="Test Core API.vi" Type="VI" URL="../Test Core API.vi"/>
 </Library>
